@@ -235,3 +235,6 @@ This repository serves as the official landing page for Dream League Soccer 2019
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Dream League Soccer 2019 today!**
+
+---
+**Last updated:** 2026-09-07 23:53:46 UTC
